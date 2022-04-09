@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  color: red;
+  font-size: 64px;
+  font-family: Arial, Helvatica, sans-serif;
+}
+.header {
+  background-color: darkgrey;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+.imageheader {
+  background-color: darkgrey;
+}
+div {
+  boder: 1px solid black;
+}
+img{
+  width: 200px; 
+}
+
+p, li {
+  color: white;
+  font-family: sans-serif;
+}
